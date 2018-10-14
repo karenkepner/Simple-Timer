@@ -2,13 +2,30 @@
   /* sorry about this designers, couldn't resist...  */
     font-family: "Comic Sans MS";
 }
+.timer-zone {
+  border: 10px #21526B solid;
+  background-color: #EFF0F2;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 10px;
+}
 
 .timer {
+  display: block;
   font-size: 4em;
+  color: #003065;
+  border: 3px #A39805 solid
+  background-color:
+  border-radius: 15px;
+  text-align: center;
+}
+.button-block {
+  text-align: center;
 }
 
 .button {
     border: none;
+    border-radius: 10px;
     color: black;
     padding: 10px;
     text-align: center;
@@ -17,16 +34,16 @@
     font-size: 16px;
 }
 
-.startTimerButton {
-    background-color: #4CAF50; /* Green */
+.start-timer-button {
+    background-color: #369656; /* Green  */
 
 }
-.resetTimerButton {
-    background-color: blue; /* Blue */
-    color: white;
+.reset-timer-button {
+    background-color: #003065; /* Blue */
+    color: #C3C9D5;
 }
 
-.stopTimerButton {
-    background-color: red; /* red */
+.stop-timer-button {
+    background-color: #BB3241; /* darkred */
     color: black;
 }

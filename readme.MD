@@ -1,4 +1,4 @@
-# Simple Timer with Stop and Reset buttons.
+# Simple Timer with Start, Stop and Reset buttons.
 
 ### Using the JavaScript setInterval() method, the clock starts counting up on a click of the start timer button.
 

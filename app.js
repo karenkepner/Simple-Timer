@@ -4,9 +4,9 @@ let sec = 0;
 let min = 0;
 let hour = 0;
 let timeKeeper = document.querySelector('.timer');
-let stop = document.querySelector('.stopTimerButton');
-let reset = document.querySelector('.resetTimerButton');
-let start = document.querySelector('.startTimerButton');
+let start = document.querySelector('.start-timer-button');
+let reset = document.querySelector('.reset-timer-button');
+let stop = document.querySelector('.stop-timer-button');
 let intervalID = null;
 let timerStopped = null;
 

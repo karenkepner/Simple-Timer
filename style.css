@@ -1,0 +1,32 @@
+* {
+  /* sorry about this designers, couldn't resist...  */
+    font-family: "Comic Sans MS";
+}
+
+.timer {
+  font-size: 4em;
+}
+
+.button {
+    border: none;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.startTimerButton {
+    background-color: #4CAF50; /* Green */
+
+}
+.resetTimerButton {
+    background-color: blue; /* Blue */
+    color: white;
+}
+
+.stopTimerButton {
+    background-color: red; /* red */
+    color: black;
+}
